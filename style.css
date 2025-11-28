@@ -1,0 +1,73 @@
+header{
+    display: flex;
+    background: #D9CFC7;
+
+}
+.idli{
+    flex: 1;
+    font-size: 35px;
+    font-weight: bold;
+    margin: auto;
+    padding-right: 50px;
+}
+.dosa{
+    flex: 3;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: right;
+    margin: auto;
+}
+.hero{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    border-bottom: 5px solid black;
+}
+.name{
+    flex: 3;
+    text-align: center;
+    margin: auto;
+    font-size: 2em;
+    
+}
+#aa{
+    padding: 0px;
+}
+#hire{
+    background-color: rgb(94, 201, 243);
+    font-size: 30px;
+    border-radius: 20px;
+}
+.photo{
+    flex: 2;
+   padding-left: 500px;
+
+
+}
+#me{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+#ab{
+    font-size: 2.5em;
+    text-align: center;
+}
+#skk{
+    width: 200px;
+}
+.about{
+    border-bottom:5px solid black ;
+}
+.skills{
+    border-bottom: 5px solid black;
+}
+.project{
+    display: flex;
+}
+.item1{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
